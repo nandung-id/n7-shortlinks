@@ -44,6 +44,22 @@
 
 ---
 
+## 📸 Screenshots
+
+### Dashboard
+
+![Dashboard](screenshots/dashboard.png)
+
+### Create Shortlink
+
+![Create Shortlink](screenshots/create-shortlink.png)
+
+### Settings
+
+![Settings 1](screenshots/settings-1.png)
+
+![Settings 2](screenshots/settings-2.png)
+
 ## ✨ Features
 
 ### 🔗 Shortlink Management
